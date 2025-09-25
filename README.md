@@ -9,6 +9,7 @@ I specialize in **scalable web applications, RESTful APIs, and backend services*
 
 ### 1. [Logistics Management Platform – Indah Logistik Group](https://indahonline.com)
 
+**Stack:**
 <img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" alt="CentOS" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-ar21.svg" alt="Yii" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21~bgwhite.svg" alt="RabbitMQ" height="40"/>
@@ -23,6 +24,7 @@ I specialize in **scalable web applications, RESTful APIs, and backend services*
 
 ### 2. [Education Quality Assurance System – Kualita Pendidikan Indonesia](https://sdm.kpi-indonesia.org)
 
+**Stack:**  
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PhP" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" height="40"/>
