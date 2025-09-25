@@ -1,6 +1,6 @@
-# 💼 Professional Portfolio – Moch Sofi
+# 💼 Hi, I’m **Moch Sofi**
 
-Hi, I’m **Moch Sofi**, a **Senior Fullstack / Back-End Software Engineer** with expertise in **PHP (Yii2, CodeIgniter, Laravel)** and experience in **Go**.  
+A **Senior Fullstack / Back-End Software Engineer** with expertise in **PHP (Yii2, CodeIgniter, Laravel)** and experience in **Go**.  
 I specialize in **scalable web applications, RESTful APIs, and backend services** with experience in logistics, education technology, and enterprise systems.
 
 ---
@@ -9,7 +9,7 @@ I specialize in **scalable web applications, RESTful APIs, and backend services*
 
 ### 1. [Logistics Management Platform – Indah Logistik Group](https://indahonline.com)
 
-**Stack:**
+**Stack:**  
 <img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" alt="CentOS" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-ar21.svg" alt="Yii" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21~bgwhite.svg" alt="RabbitMQ" height="40"/>
