@@ -22,7 +22,7 @@ I specialize in **scalable web applications, RESTful APIs, and backend services*
 
 ---
 
-### 2. [Education Quality Assurance System – Kualita Pendidikan Indonesia](https://sdm.kpi-indonesia.org)
+### 2. [Education Quality Assurance System – Kualita Pendidikan Indonesia](https://kpi-indonesia.org)
 
 **Stack:**  
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="40"/>
@@ -79,7 +79,7 @@ I specialize in **scalable web applications, RESTful APIs, and backend services*
 ## 🔗 Quick Links to Projects
 
 - Logistics Management Platform → [indahonline.com](https://indahonline.com), [indahlogistik.co.id](https://indahlogistik.co.id), [indahexpres.co.id](https://indahexpres.co.id)
-- Education Human Resources System → [sdm.kpi-indonesia.org](https://sdm.kpi-indonesia.org)
+- Education Human Resources System → [sdm.kpi-indonesia.org](https://kpi-indonesia.org)
 - Online Examination Platform → [emastery.id](https://emastery.id)
 - School Quality Management Platform → [sekolahmodel.id](https://sekolahmodel.id)
 
