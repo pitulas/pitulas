@@ -12,10 +12,10 @@ I specialize in **scalable web applications, RESTful APIs, and backend services*
 **Stack:**  
 <img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" alt="CentOS" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-ar21.svg" alt="Yii" height="40"/>
-<img src="https://logo.svgcdn.com/l/codeception.png" alt="codeception.png" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21~bgwhite.svg" alt="RabbitMQ" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab" height="40"/>
+<img src="https://codeception.com/favicons/favicon.svg" alt="codeception" height="40"/>
 
 - Developed scalable logistics & delivery tracking system.
 - Designed RESTful APIs for business integrations.
