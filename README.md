@@ -89,4 +89,4 @@ I specialize in **scalable web applications, RESTful APIs, and backend services*
 ## 📫 Contact
 
 - **GitHub:** [github.com/pitulas](https://github.com/pitulas)
-- **Email:** pitulas07@gmail.com
+- **Email:** pitulasdev@gmail.com
